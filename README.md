@@ -6,7 +6,7 @@
 
 I enjoy helping people and businesses become more organised, productive, and customer-focused.
 
-My work brings together operations, customer success, project management, and workflow optimisation to create practical solutions that improve the way people work. Whether I'm improving a customer journey, organising business processes, implementing a CRM, or helping someone stay accountable to their goals, I enjoy building systems that make work simpler, more efficient, and more meaningful.
+My work brings together operations, customer success, project management, and workflow optimisation to create practical solutions that improve the way people and businesses work. Whether I'm improving customer journeys, organising business processes, implementing CRM solutions, or helping people stay accountable to their goals, I enjoy building systems that make work simpler, more efficient, and more meaningful.
 
 I'm currently building a portfolio of real-world implementation projects that demonstrate how modern business tools improve customer experience, streamline operations, and support business growth.
 
