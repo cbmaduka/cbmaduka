@@ -1,12 +1,14 @@
 # Hi, I'm Chika 👋
 
-## Operations | Customer Success | CRM | Project Management | Success Partner
+## Operations | Customer Success | CRM | Project Management | LifeCoach/Success Partner
 
 I enjoy helping people and businesses become more organised, productive, and customer-focused.
 
 My work sits at the intersection of operations, customer success, project management, and workflow optimisation. Whether I'm improving a customer journey, organising business processes, implementing a CRM, or helping someone stay accountable to their goals, I enjoy building practical systems that make work simpler and more effective.
 
-I'm currently building a portfolio of real-world projects that demonstrate how modern business tools can solve everyday operational challenges.
+I'm currently building a portfolio of real-world implementation projects that demonstrate how modern business tools improve customer experience, streamline operations, and support business growth.
+
+Each repository documents a complete business solution—from requirements gathering and process design to implementation and documentation—reflecting how these tools are applied in real organisations.
 
 ---
 
@@ -57,7 +59,7 @@ Current focus:
 
 # 📂 Portfolio Projects
 
-Every repository represents a practical solution to a real business challenge.
+Every repository documents a complete implementation project built around realistic business scenarios. Rather than focusing only on software features, each project demonstrates business analysis, process design, implementation, documentation, and continuous improvement.
 
 ### Customer Success
 
@@ -122,9 +124,11 @@ Every repository represents a practical solution to a real business challenge.
 
 Technology is only valuable when it helps people do meaningful work more effectively.
 
-My goal is to build practical solutions that improve customer experiences, simplify operations, strengthen teams, and help individuals and businesses achieve consistent results.
+My goal is to design practical business solutions that improve customer experiences, simplify operations, strengthen teams, and help organisations deliver consistent, measurable results.
 
-Every project in this portfolio reflects that philosophy.
+I'm committed to continuous learning, and this GitHub portfolio reflects that journey through projects grounded in business needs and operational excellence.
+
+Every project in this portfolio 
 
 ---
 
