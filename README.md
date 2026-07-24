@@ -1,6 +1,6 @@
 # Hello 👋
 
-## I'm Blessing C.
+# I'm Blessing C.
 
 ### Operations | Customer Success | CRM | Project Management | Success Partner
 
